@@ -1,19 +1,20 @@
-h1{
+h1 {
     color: lightsalmon;
     text-align: center;
+    font-family: comic sans MS;
 }
 
-#game{
+  #game {
     box-shadow: 10px 10px 15px black;
-}
+  }
 
-body{
+  body {
     display: flex;
     justify-content: center;
     height: 100vh;
     background: linear-gradient(
-        0deg,
-        rgb(36,141,29) 0%,
-        rgb(17,51,161) 60%,
+      0deg,
+      rgb(36, 141, 29) 0%,
+      rgb(17, 51, 161) 60%
     );
-}
+  }
